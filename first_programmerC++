@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+    // Write C++ code here
+   std::cout << "cleuber" << std::endl;
+   std::cout << "maciel" << std::endl;
+   std::cout << "barbosa" << std::endl;
+    return 0;
+}
