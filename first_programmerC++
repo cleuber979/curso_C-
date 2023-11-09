@@ -1,9 +1,12 @@
 #include <iostream>
 
+
+
 int main() {
     // Write C++ code here
-   std::cout << "cleuber" << std::endl;
-   std::cout << "maciel" << std::endl;
-   std::cout << "barbosa" << std::endl;
+   std::cout << "cleuber" << "\n";
+   std::cout << "maciel" << "\n";
+   std::cout << "barbosa" << "\n";
     return 0;
 }
+
