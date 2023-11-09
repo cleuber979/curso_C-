@@ -3,7 +3,7 @@
 
 
 int main() {
-    // Write C++ code here
+    system("COLOR 47");
    std::cout << "cleuber" << "\n";
    std::cout << "maciel" << "\n";
    std::cout << "barbosa" << "\n";
